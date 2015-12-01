@@ -1,0 +1,5 @@
+.tags*
+*.dSYM/
+*.o
+*.swp
+*.swo
