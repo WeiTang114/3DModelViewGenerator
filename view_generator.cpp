@@ -1,3 +1,4 @@
+#define GL_GLEXT_PROTOTYPES
 #include <stdlib.h>
 #include <unistd.h>
 #include <iostream>
